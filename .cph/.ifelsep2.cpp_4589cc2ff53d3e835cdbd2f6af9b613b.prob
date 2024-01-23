@@ -1,0 +1,1 @@
+{"name":"Local: ifelsep2","url":"c:\\Users\\Aman\\Desktop\\c++\\C++ practice\\ifelsep2.cpp","tests":[{"id":1705769689392,"input":"17","output":"odd"},{"id":1705769701232,"input":"2","output":"even"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Aman\\Desktop\\c++\\C++ practice\\ifelsep2.cpp","group":"local","local":true}
